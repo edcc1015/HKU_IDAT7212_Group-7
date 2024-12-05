@@ -1,5 +1,6 @@
   This is the code for IDAT7212 project 2024FAll
-  Group member
+  
+  Group member:
   He Yuyuan
   Luo qi
   Wang chenyu
