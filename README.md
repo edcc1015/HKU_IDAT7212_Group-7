@@ -2,4 +2,19 @@
   
   Group member:
   He Yuyuan 
-  / Luo qi / Wang chenyu / Lei Ruiqi / Yan Haowei / Xu Ruize / Ding luqi / Lin Haochuan / Pu Baiyu
+  
+  Luo qi
+  
+  Wang chenyu
+  
+  Lei Ruiqi
+  
+  Yan Haowei
+  
+  Xu Ruize
+  
+  Ding luqi
+  
+  Lin Haochuan
+  
+  Pu Baiyu
