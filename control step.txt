@@ -1,0 +1,25 @@
+ssh clbrobot@192.168.62.13
+Password 123456
+
+Open two terminals, both into the cart system, ssh clbrobot@192.168.62.13
+One terminal roscore
+One terminal roslaunch /home/clbrobot/HKU_FYP/my_joy.launch
+
+
+The files are all in the HKU_FYP folder. Enter the cart system to operate ssh clbrobot@192.168.62.13
+
+
+ultrasound.py is ultrasound, after running it, the main programme can receive the distance information.
+human_follow.py can receive human position information after running, need to open in GUI, or ssh+X.
+
+TankDemo.py is the routine of phantom motor.
+IDAT7212 is the main programme, running can be controlled by handle, SELECT is on follow, ANALOG is ultrasonic, START is reset motor.
+Press it to turn on, press it again to turn off.
+
+
+
+Directly in my computer on the VS to change, changed scp test.py clbrobot 192.168.62.13:/home/clbrobot/HKU_FYP is ok了
+
+(the file is in ubuntu20.04 in WSL, in the main directory, it's a bit messy, you may have to look for it)
+(when you first start up the joystick may have some problems, press START a few times, then press L2R2 alternately a few times, then it will be normal)
+(If you can't stop and get a bug, just power off and restart)
