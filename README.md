@@ -2,6 +2,7 @@
   ![image](./tank_display.png)  
   [Testing VDO Download Link](./tank_test_vdo.mp4)  
 
+  ***
   Bambu Lab A1 - 3D printing for shell/bracket  
   [Hiwonder track Chassis](https://item.taobao.com/item.htm?id=743466510881&skuId=5300104307620&spm=a21xtw.29978516.0.0) - bought on Taobao  
 
@@ -17,23 +18,14 @@
   PS2 joystick - manual control  
   
   ***
-  This is the code for IDAT7212 project 2024FAll
-  
-  Group member:
-  He Yuyuan 
-  
-  Luo qi
-  
-  Wang chenyu
-  
-  Lei Ruiqi
-  
-  Yan Haowei
-  
-  Xu Ruize
-  
-  Ding luqi
-  
-  Lin Haochuan
-  
+  This is the code for IDAT7212 project 2024FAll  
+  Group member:  
+  He Yuyuan  
+  Luo qi  
+  Wang chenyu  
+  Lei Ruiqi  
+  Yan Haowei  
+  Xu Ruize  
+  Ding luqi  
+  Lin Haochuan  
   Pu Baiyu
